@@ -33,6 +33,7 @@ header a:focus {
 
 #about {
 	background-color: #F3A91C;
+	overflow: auto;
 }
 
 #education {
@@ -57,3 +58,17 @@ footer {
 	float: left;
 	margin-right: 1em;
 }
+
+#education {
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
